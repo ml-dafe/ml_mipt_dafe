@@ -3,6 +3,8 @@
 Курс основан на материалах: __Машинное обучение ФИВТ МФТИ__
 [Видеолекции](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 
+[Текущие результаты](https://docs.google.com/spreadsheets/d/14OtGRIsVzB0n-rJOlq899GqIab0i5W4tswir2j9Be9o/edit#gid=0)
+
 ## Tools 
 
 ### <img src='https://github.com/ml-dafe/ml_mipt_dafe_major/blob/master/src/anaconda.png' height="20px" width="20px" align="top"> Вариант 1

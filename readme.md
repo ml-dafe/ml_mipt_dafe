@@ -44,4 +44,23 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
   - метрики
   - регуляризация
 
+3. [Logistic Regression](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_03)
+  
 
+4. [SVM & PCA](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_04)
+   
+
+5. [Kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_05)
+  
+
+6. [Decision Trees](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_06)
+  
+
+7. [Ensembles](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_07)
+  
+
+8. [Boosting](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_08)
+  
+
+9. [Clustering](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_09)
+  

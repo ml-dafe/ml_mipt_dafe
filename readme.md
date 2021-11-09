@@ -1,6 +1,6 @@
 # Машинное обучение на ФАЛТ 2021/2022
 
-Курс основан на материалах: __Машинное обучение ФИВТ МФТИ__
+Курс основан на материалах: __Машинное обучение ФПМИ МФТИ__
 [Видеолекции](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 
 # Tools 
@@ -45,22 +45,36 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
   - регуляризация
 
 3. [Logistic Regression](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_03)
-  
+  - задача классификации
+  - метрики
+  - модель логистической регрессии
+  - torch
 
 4. [SVM & PCA](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_04)
-   
+  - PCA
+  - SVD
+  - SVM on torch
 
 5. [Kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_05)
   
 
 6. [Decision Trees](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_06)
-  
+  - Деревья решений
 
 7. [Ensembles](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_07)
-  
+  - Bias-Variance decomposition
+  - Bootstrap
+  - Bagging
+  - Random forest
 
 8. [Boosting](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_08)
-  
+  - градиентный бустинг
+  - AdaBoost
+  - Catboost, LightGBM, XGboost
 
 9. [Clustering](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_09)
+  - Agglomerative clustering 
+  - Mean-shift clustering
+  - DBSCAN
+  - Визуализация кластеров: t-SNE & PCA
   

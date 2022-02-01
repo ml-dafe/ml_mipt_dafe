@@ -1,4 +1,4 @@
-# Машинное обучение на ФАЛТ 2022/2023
+# Машинное обучение на ФАЛТ 2021/2022
 
 Курс основан на материалах: __Машинное обучение ФПМИ МФТИ__
 [Видеолекции](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
@@ -32,4 +32,49 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
 
 # Программа курса:
 
-1. [Вводное занятие](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_00)
+0. [Вводное занятие](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_00)
+
+1. [Naive Bayes, kNN](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_01)
+  - kNN
+  - градиентный спуск
+  - теорема Гаусса Маркова
+
+2. [Linear Models](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_02)
+  - численное и аналитическое решение
+  - метрики
+  - регуляризация
+
+3. [Logistic Regression](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_03)
+  - задача классификации
+  - метрики
+  - модель логистической регрессии
+  - torch
+
+4. [SVM & PCA](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_04)
+  - PCA
+  - SVD
+  - SVM on torch
+
+5. [Kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_05)
+  
+
+6. [Decision Trees](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_06)
+  - Деревья решений
+
+7. [Ensembles](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_07)
+  - Bias-Variance decomposition
+  - Bootstrap
+  - Bagging
+  - Random forest
+
+8. [Boosting](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_08)
+  - градиентный бустинг
+  - AdaBoost
+  - Catboost, LightGBM, XGboost
+
+9. [Clustering](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_09)
+  - Agglomerative clustering 
+  - Mean-shift clustering
+  - DBSCAN
+  - Визуализация кластеров: t-SNE & PCA
+  

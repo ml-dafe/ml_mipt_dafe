@@ -3,7 +3,7 @@
 Курс основан на материалах: __Машинное обучение ФПМИ МФТИ__
 [Видеолекции](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 
-# Инстурменты окружения
+# Tools 
 
 ## <img src='https://github.com/ml-dafe/ml_mipt_dafe_major/blob/master/src/anaconda.png' height="20px" width="20px" align="top"> Вариант 1
 - Установить [Anaconda](https://www.anaconda.com/distribution/)
@@ -30,23 +30,51 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
 - Переходим в [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 - Использовать по назначению
 
-# Программа DL курса:
+# Программа курса:
 
-1. [Введение в нейронные сети](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_01)
-  - теория по методу обучения сетей - обратное распространение ошибки
-  - кодирование данных
-  - функции потерь
-  - нейронная сеть на numpy
+0. [Вводное занятие](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_00)
 
-2. [Примитивный цикл обучения на Pytorch](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_02)
-  - torch.tensor
-  - Dataset, Dataloader
-  - nn.Module: forward, backward
-  - цикл обучения на torch
+1. [Naive Bayes, kNN](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_01)
+  - kNN
+  - градиентный спуск
+  - теорема Гаусса Маркова
 
-3. [Сверточная нейронная сеть](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_03)
-  - загрузка данных CIFAR10
-  - операции conv2d, pooling, dropout, batchnorm
-  - построение примитивной CNN
-  - цикл обучения
-  - примеры логирования на tensorboard, wandb
+2. [Linear Models](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_02)
+  - численное и аналитическое решение
+  - метрики
+  - регуляризация
+
+3. [Logistic Regression](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_03)
+  - задача классификации
+  - метрики
+  - модель логистической регрессии
+  - torch
+
+4. [SVM & PCA](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_04)
+  - PCA
+  - SVD
+  - SVM on torch
+
+5. [Kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_05)
+  
+
+6. [Decision Trees](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_06)
+  - Деревья решений
+
+7. [Ensembles](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_07)
+  - Bias-Variance decomposition
+  - Bootstrap
+  - Bagging
+  - Random forest
+
+8. [Boosting](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_08)
+  - градиентный бустинг
+  - AdaBoost
+  - Catboost, LightGBM, XGboost
+
+9. [Clustering](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/base/week_09)
+  - Agglomerative clustering 
+  - Mean-shift clustering
+  - DBSCAN
+  - Визуализация кластеров: t-SNE & PCA
+  

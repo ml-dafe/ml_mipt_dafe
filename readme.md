@@ -50,3 +50,8 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
   - построение примитивной CNN
   - цикл обучения
   - примеры логирования на tensorboard, wandb
+
+4. [Сверточные нейронные сети в задачах компьютерного зрения](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_04)
+  - описание задач
+  - metric learning
+  - self-supervision

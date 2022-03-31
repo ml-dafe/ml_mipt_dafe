@@ -55,3 +55,20 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
   - описание задач
   - metric learning
   - self-supervision
+  
+5. [Практика с kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_05)
+  - знакомство с площадкой Kaggle
+
+6. [CNN для решения задачи сегментации](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_06)
+  - Архитектуры для сегментации
+  - метрики и функции потерь
+
+7. [CNN для решения задачи распознавания](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_07)
+  - R-CNN, Fast R-CNN, Faster R-CNN
+  - two/one shot detectors
+
+8. [Генерация изображений](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_08)
+  - deep inpainting
+  - AE / VAE
+  - GAN
+

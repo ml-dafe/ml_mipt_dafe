@@ -1,5 +1,5 @@
 BERT for proverb checking:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe/tree/main/week_13/BERT_proverbs_checking_unsolved.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe/blob/main/week_13/BERT_proverbs_checking_unsolved.ipynb)
 
 __Further readings__:
 * [en] The Illustrated BERT [blog post](http://jalammar.github.io/illustrated-bert/)

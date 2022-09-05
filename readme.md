@@ -1,9 +1,9 @@
-# Машинное обучение на ФАЛТ 2021/2022
+# Машинное обучение на ФАЛТ 2022/2023
 
 Курс основан на материалах: __Машинное обучение ФПМИ МФТИ__
 [Видеолекции](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 
-# Инстурменты окружения
+# Tools 
 
 ## <img src='https://github.com/ml-dafe/ml_mipt_dafe_major/blob/master/src/anaconda.png' height="20px" width="20px" align="top"> Вариант 1
 - Установить [Anaconda](https://www.anaconda.com/distribution/)
@@ -30,45 +30,6 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
 - Переходим в [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 - Использовать по назначению
 
-# Программа DL курса:
+# Программа курса:
 
-1. [Введение в нейронные сети](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_01)
-  - теория по методу обучения сетей - обратное распространение ошибки
-  - кодирование данных
-  - функции потерь
-  - нейронная сеть на numpy
-
-2. [Примитивный цикл обучения на Pytorch](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_02)
-  - torch.tensor
-  - Dataset, Dataloader
-  - nn.Module: forward, backward
-  - цикл обучения на torch
-
-3. [Сверточная нейронная сеть](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_03)
-  - загрузка данных CIFAR10
-  - операции conv2d, pooling, dropout, batchnorm
-  - построение примитивной CNN
-  - цикл обучения
-  - примеры логирования на tensorboard, wandb
-
-4. [Сверточные нейронные сети в задачах компьютерного зрения](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_04)
-  - описание задач
-  - metric learning
-  - self-supervision
-  
-5. [Практика с kaggle](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_05)
-  - знакомство с площадкой Kaggle
-
-6. [CNN для решения задачи сегментации](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_06)
-  - Архитектуры для сегментации
-  - метрики и функции потерь
-
-7. [CNN для решения задачи распознавания](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_07)
-  - R-CNN, Fast R-CNN, Faster R-CNN
-  - two/one shot detectors
-
-8. [Генерация изображений](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/week_08)
-  - deep inpainting
-  - AE / VAE
-  - GAN
-
+1. [Вводное занятие]()

@@ -1,0 +1,7 @@
+batch_size: 64 
+lr: 0.003  # inital learning rate
+epochs: 3
+weight_decay: 0.004
+n_workers: 0
+
+seed: 42

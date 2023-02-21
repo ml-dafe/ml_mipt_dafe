@@ -2,7 +2,7 @@
 
 ## Практика
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe/tree/main/03_Self_Supervision/Seminar_03_unsolved.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe/blob/main/03_Self_Supervision/Seminar_03_unsolved.ipynb)
 
 Open `seminar.ipynb` and follow the instructions here.
 

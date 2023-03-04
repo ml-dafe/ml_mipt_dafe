@@ -20,3 +20,5 @@
 1. [Вводное занятие, pytorch](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/01_Pytorch_NN)
 2. [Введение в сверточные нейронные сети](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/02_CNN)
 3. [Задача self-supervision на примере simCLR](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/03_Self_Supervision)
+4. [Задача сегментации](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/04_Segmentation)
+5. [Задача распознавания объектов](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/05_Detection)

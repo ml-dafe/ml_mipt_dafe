@@ -1,0 +1,8 @@
+data/
+.data/
+.ipynb_checkpoints/
+__pycache__/
+.idea
+weights/*
+venv
+*.html

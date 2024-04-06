@@ -1,0 +1,9 @@
+batch_size: 128
+lr: 0.2  # inital learning rate
+lrf: 0.02
+epochs: 50
+weight_decay: 0.0004
+n_workers: 0
+temperature: 0.5
+
+seed: 42

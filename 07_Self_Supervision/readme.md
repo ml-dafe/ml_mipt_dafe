@@ -1,8 +1,8 @@
 # Неделя 7: Задача Self-Supervision
 
-* Лекция: [слайды](), [запись]()
-* Семинар: [содержание](), [запись]()
-* Домашняя работа: [описание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/02_RNN/homework/readme.md)
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/07_Self_Supervision/lec7.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/07_Self_Supervision/seminar/practice_solved.ipynb), [запись]()
+* Домашняя работа: [описание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/07_Self_Supervision/homework/README.md)
 
 ## Литература
 

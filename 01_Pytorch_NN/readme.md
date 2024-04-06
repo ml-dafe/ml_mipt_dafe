@@ -1,4 +1,8 @@
-# Неделя 1: 
+# Неделя 1 - Введение в PyTorch
+
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/01_Pytorch_NN/lec1.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/01_Pytorch_NN/example_project), [запись]()
+* Домашняя работа: [описание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/01_Pytorch_NN/homework/readme.md)
 
 ## Литература
 * Tools for experiment tracking: [Comet](https://www.comet.ml/site/), [Neptune](https://neptune.ai/), [Sacred](https://github.com/IDSIA/sacred), [Weights and Biases](https://wandb.ai/), [ClearML](https://clear.ml/)

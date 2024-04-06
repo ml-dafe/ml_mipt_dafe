@@ -1,8 +1,7 @@
 # Неделя 3: NLP intro
 
-* Лекция: [слайды](), [запись]()
-* Семинар: [содержание](), [запись]()
-* Домашняя работа: [описание]()
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/03_NLP_intro/lec3.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/03_NLP_intro/seminar/notebooks/practice.ipynb), [запись]()
 
 ## Литература
 

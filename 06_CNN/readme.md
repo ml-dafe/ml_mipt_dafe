@@ -1,7 +1,7 @@
 # Неделя 6: CNN
 
-* Лекция: [слайды](), [запись]()
-* Семинар: [содержание](), [запись]()
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/06_CNN/lec6.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/06_CNN/seminar/practice_CNN.ipynb), [запись]()
 
 ## Литература
 

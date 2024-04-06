@@ -1,7 +1,7 @@
 # Неделя 4: Seq2Seq
 
-* Лекция: [слайды](), [запись]()
-* Семинар: [содержание](), [запись]()
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/04_seq2seq/lec4.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/04_seq2seq/seminar/practice_seq2seq_for_nmt_solved.ipynb), [запись]()
 
 ## Литература
 

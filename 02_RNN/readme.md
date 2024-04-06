@@ -1,5 +1,8 @@
 # Неделя 2: RNN и пайплайны
 
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/02_RNN/lec2.pdf), [запись]()
+* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/02_RNN/seminar/practice.ipynb), [запись]()
+
 ## Лекция
 
 1. Последовательность данных

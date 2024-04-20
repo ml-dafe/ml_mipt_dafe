@@ -1,8 +1,8 @@
 # Неделя 9: Распознавание образов
 
-* Лекция: [слайды](), [запись]()
+* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/09_Detection/lec9.pdf), [запись](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/09_Detection/seminar/practice_solved.ipynb)
 * Семинар: [содержание](), [запись]()
-* Домашняя работа: [описание]()
+* Домашняя работа: [описание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/09_Detection/homework/readme.md)
 
 ## Литература
 

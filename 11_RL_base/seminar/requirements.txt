@@ -1,0 +1,7 @@
+# python=3.9
+pip install gymnasium
+pip install 'gymnasium[classic-control]'
+pip install moviepy
+pip install matplotlib
+pip install numpy
+pip install scikit-learn

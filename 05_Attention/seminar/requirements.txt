@@ -1,4 +1,0 @@
-torchtext==0.9.0
-portalocker==2.8.2
-nltk
-sacremoses==0.0.5

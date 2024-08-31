@@ -1,4 +1,0 @@
-torchtext==0.16.0
-portalocker==2.8.2
-nltk
-tensorboard

@@ -1,0 +1,24 @@
+
+model_name: cbow
+#model_name: skipgram
+
+dataset: PennTreebank
+
+
+data_dir: data/
+train_batch_size: 96
+val_batch_size: 96
+shuffle: True
+
+optimizer: Adam
+lr_scheduler: StepLR
+learning_rate: 0.025
+epochs: 30
+train_steps: 
+val_steps: 
+
+checkpoint_frequency: 2
+model_dir: weights/cbow_PennTreebank
+#model_dir: weights/skipgram_PennTreebank/
+
+continue_training: weights/cbow_PennTreebank/

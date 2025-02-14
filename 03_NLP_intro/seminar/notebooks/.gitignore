@@ -1,0 +1,5 @@
+# игнорировать в этой папке
+.ipynb_checkpoints
+# кроме этого файла
+!practice.ipynb
+

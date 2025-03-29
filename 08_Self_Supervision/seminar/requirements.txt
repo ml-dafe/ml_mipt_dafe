@@ -9,3 +9,4 @@ scikit-image
 opencv-python
 opencv-contrib-python
 albumentations
+matplotlib==3.10.1

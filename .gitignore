@@ -133,3 +133,4 @@ dmypy.json
 # OTHER
 student_homeworks/
 09_Segmentation/seminar/PH2Dataset/*
+10_Detection/global-wheat-detection/*

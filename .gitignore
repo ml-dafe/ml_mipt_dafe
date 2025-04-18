@@ -134,3 +134,5 @@ dmypy.json
 student_homeworks/
 09_Segmentation/seminar/PH2Dataset/*
 10_Detection/global-wheat-detection/*
+11_ImageGen/stanford_cars/*
+11_ImageGen/data/*

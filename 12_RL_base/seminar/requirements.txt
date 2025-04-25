@@ -1,0 +1,6 @@
+numpy==1.23.5
+scikit-learn
+matplotlib
+gymnasium
+gymnasium[classic-control]
+moviepy
